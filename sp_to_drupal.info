@@ -1,0 +1,6 @@
+name = SharePoint to Drupal
+description = Connect and consume information from a SharePoint site to a Drupal site.
+core = 7.x
+version = 7.x-0.1-dev
+; configure = admin/config/sp_to_drupal/manage
+dependencies[] = feeds

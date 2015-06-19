@@ -1,5 +1,5 @@
-# sp-to-drupal
-SharePoint to Drupal interface
+# sp_to_drupal
+SharePoint to Drupal Intergration
 
-Aim to create a way to display information from a SharePoint site on a drupal site.
-based on http://cgit.drupalcode.org/sharepoint 
+Aim to connect and consume information from a SharePoint site to a drupal site.
+Based on and adpted from http://drupal.org/project/sharepoint (http://cgit.drupalcode.org/sharepoint)
